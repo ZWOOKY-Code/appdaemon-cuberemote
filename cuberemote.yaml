@@ -1,0 +1,6 @@
+---
+
+
+cube_remote:
+  module: cuberemote
+  class: CubeRemote
